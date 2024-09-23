@@ -1,0 +1,14 @@
+{
+  "name": "@ivokc/monorepo1",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "father-build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ivokc/monorepo2": "workspace:^"
+  }
+}

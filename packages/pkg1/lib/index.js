@@ -17,5 +17,6 @@ function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e
 function fun2() {
   (0, _monorepo().default)();
   console.log('I am package 1');
+  console.log('hello world 1');
 }
 var _default = exports.default = fun2;
